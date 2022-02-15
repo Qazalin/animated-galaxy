@@ -1,5 +1,11 @@
 # Animated Galaxy with Three js
 
+## Picture
+![image](https://i.postimg.cc/PxNQcFhd/Screen-Shot-1400-11-26-at-11-36-56.png)
+
+## live demo
+You can find the live demo [here](https://animated-galaxy-jade.vercel.app/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
